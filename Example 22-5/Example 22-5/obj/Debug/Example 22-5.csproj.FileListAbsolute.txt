@@ -1,0 +1,12 @@
+C:\Users\M-H Computer\Desktop\Example 22-5\Example 22-5\bin\Example 22-5.dll
+C:\Users\M-H Computer\Desktop\Example 22-5\Example 22-5\bin\Example 22-5.pdb
+C:\Users\M-H Computer\Desktop\Example 22-5\Example 22-5\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\M-H Computer\Desktop\Example 22-5\Example 22-5\obj\Debug\Example 22-5.dll
+C:\Users\M-H Computer\Desktop\Example 22-5\Example 22-5\obj\Debug\Example 22-5.pdb
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part22\Example 22-5\Example 22-5\bin\Example 22-5.dll.config
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part22\Example 22-5\Example 22-5\bin\Example 22-5.dll
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part22\Example 22-5\Example 22-5\bin\Example 22-5.pdb
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part22\Example 22-5\Example 22-5\obj\Debug\Example 22-5.csprojAssemblyReference.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part22\Example 22-5\Example 22-5\obj\Debug\Example 22-5.csproj.CoreCompileInputs.cache
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part22\Example 22-5\Example 22-5\obj\Debug\Example 22-5.dll
+H:\Book & Nashr\2- کتابهای خودم\BOOK\کتاب های کامل شده\1-   C#.NET\Example\Part22\Example 22-5\Example 22-5\obj\Debug\Example 22-5.pdb
